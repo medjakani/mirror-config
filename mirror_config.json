@@ -1,4 +1,5 @@
 {
-  "paid_app_asin": "B0H8M5W4X3",
-  "purchase_url_override": null
+  "primary_asin": "B0H8M5W4X3",
+  "secondary_asin": "B0H5SB3R26",
+  "show_secondary": true
 }
